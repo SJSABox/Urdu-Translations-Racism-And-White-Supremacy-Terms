@@ -29,6 +29,10 @@ nasl ki buniyad par zulm karna - نسل کی بنیاد پر ظلم کرنا
 
 🔗 References:
 
+[Hate Crimes Explained](https://www.splcenter.org/20180415/hate-crimes-explained)
+
+[Black Americans still are victims of hate crimes more than any other group](https://publicintegrity.org/politics/black-americans-still-are-victims-of-hate-crimes-more-than-any-other-group/)
+
 #
 
 ### 3. Blackface
@@ -36,12 +40,22 @@ kale logoN ke rang roop ki naql - کالے لوگوں کے رنگ روپ کی ن
 
 🔗 References:
 
+[Why is Blackface Offensive](https://www.vox.com/2014/10/29/7089591/why-is-blackface-offensive-halloween-costume)
+
+[Blackface, Staple of Arab Comedy](https://www.nytimes.com/2019/08/18/world/middleeast/blackface-arab-tv-racist.html)
+
+[Brownface at Bon Appetit](https://www.insider.com/bon-appetit-editor-adam-rapoport-resigned-dressed-puerto-rican-photo-2020-6)
+
 #
 
 ### 4. The N-word
 noon lafz wali gaali - ن لفظ والی گالی
 
 🔗 References:
+
+[When Latinx People Use the N-Word](https://www.nytimes.com/2019/10/17/opinion/gina-rodriguez-n-word-latinx.html)
+
+[BBC apologizes for use of N-word in news report](https://www.cnn.com/2020/08/10/media/bbc-apology-offensive-language-scli-intl-gbr/index.html)
 
 #
 
@@ -64,12 +78,22 @@ saleebeN jala kar Darana - صلیبیں جلا کر ڈرانا
 
 🔗 References:
 
+[A Decision on Cross Burning](https://www.nytimes.com/2003/04/08/opinion/a-decision-on-cross-burning.html)
+
+[Virginia Man Accused of Burning Cross on Lawn of Black Teen Protest Organizer](https://www.nbcwashington.com/news/local/virginia-man-charged-in-connection-with-cross-burning/2345942/)
+
+[Authorities investigate cross burning in Alabama](https://thehill.com/homenews/state-watch/501477-authorities-investigate-cross-burning-in-alabama)
+
 #
 
 ### 8. Racist Jokes
 nasl-parast mazaaq - نسل پرست مزاق	
 
 🔗 References:
+
+[She didn’t laugh at racist jokes. Her coach said she didn’t have the right ‘chemistry’ for the team.](https://www.washingtonpost.com/local/public-safety/student-refuses-to-let-the-bullies-win/2017/04/24/623187e4-1ba1-11e7-bcc2-7d1a0973e7b2_story.html)
+
+[Asian American racism is the unfunny joke the comedy world needs to reckon with](https://www.vox.com/the-highlight/2020/1/15/21065939/comedy-racism-asian-american-rosie-odonnell-shane-gillis-awkwafina-ali-wong)
 
 #
 
@@ -88,6 +112,8 @@ gore logoN ki baladasti ki hami mujrimana tanzeem
 
 🔗 References:
 
+[Ku Klux Klan](https://www.splcenter.org/fighting-hate/extremist-files/ideology/ku-klux-klan)
+
 #
 
 ## Covert White Supremacy - گوروں کی ڈھکی چھپی بالادستی - goroN ki Dhaki chhupi baladasti
@@ -96,10 +122,14 @@ gore logoN ki baladasti ki hami mujrimana tanzeem
 kale logoN par police bulaana - کالے لوگوں پر پولیس بلانا	
 
 📌 Expanded Explanation:<br/>
-police bulana kale logoN ki zindagi ke liye khatarnak hai, kyunke police ka bartao nasl-parast ho sakta hai - <br/>
+police bulana kale logoN ki zindagi ke liye khatarnak hai, kyunke police ka bartao nasl-parast ho sakta hai <br/>
 پولیس بلانا کالے لوگوں کی زندگی کے لئے خطرناک ہے کیونکہ پولیس کا برتاؤ نسل پرست ہو سکتا ہے
 
 🔗 References:
+
+[Why Did Cup Foods Call the Cops on George Floyd?](https://www.nytimes.com/2020/06/17/opinion/george-floyd-arab-muslims-racism.html)
+
+[White woman who called police on a black man bird-watching in Central Park has been fired](https://www.cnn.com/2020/05/26/us/central-park-video-dog-video-african-american-trnd/index.html)
 
 #
 
@@ -110,6 +140,10 @@ goroN ki khamosh razamandi - 	گوروں کی خاموش رضامندی
 goroN ka nasl parasti ko nazar andaaz karna - گوروں کا نسل پرستی کو نظر انداز کرنا
 
 🔗 References:
+
+[Why white silence is deafening — and deadly](https://www.salon.com/2020/05/31/why-white-silence-is-deafening-and-deadly/)
+
+[Black mother explains why white silence is so painful](https://www.youtube.com/watch?v=RwZKU4wUeKs)
 
 #
 
@@ -122,6 +156,8 @@ maashre maiN rang ki buniyad par farq hone ke bawjood ye maanna ke sab rang bara
 
 🔗 References:
 
+[White parents teach their children to be colorblind. Here’s why that’s bad for everyone](https://www.washingtonpost.com/nation/2018/10/05/white-parents-teach-their-children-be-colorblind-heres-why-thats-bad-everyone/)
+
 #
 
 ### 14. White Parents Self-Segregating Neighborhoods & Schools	
@@ -130,23 +166,34 @@ goroN ke apne alag mahalle aur school -	گوروں کے اپنے الگ محلے
 📌 Expanded Explanation:<br/>
 🔗 References:
 
+[White America is quietly self-segregating](https://www.vox.com/2017/1/18/14296126/white-segregated-suburb-neighborhood-cartoon)
+
+[Despite the Best Intentions: How Racial Inequality Thrives in Good Schools](https://bookshop.org/books/despite-the-best-intentions-how-racial-inequality-thrives-in-good-schools/9780190669829)
+
 #
 
 ### 15. Eurocentric Curriculum	
 Europi nazariye wala nisaab -	یوروپی نظریے والا نصاب	
 
 📌 Expanded Explanation:<br/>
-sirf Europi nazariye hi ko paRhane wala nisaab - صرف یورپی نظریے ہی کو پڑھانے والا نصاب
+sirf Europi nazariye hi ko paRhana - صرف یورپی نظریے ہی کو پڑھانا  
 
 🔗 References:
+
+[How US history is whitewashed in high school exams](https://www.aljazeera.com/indepth/opinion/history-whitewashed-high-school-exams-190701132525633.html)
+
+[History Class & Fictions About Race](https://www.theatlantic.com/education/archive/2015/10/the-history-class-dilemma/411601/)
 
 #
 
 ### 16. White Savior Complex	
 goroN ke madadgaar hone ka ehsaas -	گوروں کے مددگار ہونے کا احساس	
 
-📌 Expanded Explanation:<br/>
 🔗 References:
+
+[The White Savior Industrial Complex](https://www.theatlantic.com/international/archive/2012/03/the-white-savior-industrial-complex/254843/)
+
+[Can Outsiders Make Films About India in an Honest Way?](https://www.kqed.org/arts/11483013/can-outsiders-make-films-about-india-in-an-honest-way)
 
 #
 
@@ -154,6 +201,9 @@ goroN ke madadgaar hone ka ehsaas -	گوروں کے مددگار ہونے کا �
 ruhaniyat ki aaR lena -	روحانیت کی آڑ لینا
 
 📌 Expanded Explanation:<br/>
+ruhani aur mazhabi batoN ki aaR le kar haqeeqi masaail se tawajjo haTaana
+روحانی اور مذہبی باتوں کی آڑ لے کر حقیقی مسائل سے توجہ ہٹانا
+
 🔗 References:
 
 #
@@ -162,15 +212,25 @@ ruhaniyat ki aaR lena -	روحانیت کی آڑ لینا
 Property tax jo school fund maiN jata hai -	پراپرٹی ٹیکس جو اسکول فنڈ میں جاتا ہے	
 
 📌 Expanded Explanation:<br/>
+ghareeb ilaqoN se kam property tax aane ki wajah se wahan ke schoolon ko kam fund milna <br/>
+غریب علاقوں سے کم پراپرٹی ٹیکس آنے کی وجہ سے وہاں کے اسکولوں کو کم فنڈ ملنا
+
 🔗 References:
+
+[Report finds $23 billion racial funding gap for schools](https://www.washingtonpost.com/local/education/report-finds-23-billion-racial-funding-gap-for-schools/2019/02/25/d562b704-3915-11e9-a06c-3ec8ed509d15_story.html)
+
+[EdBuild - Clean Slate](https://edbuild.org/content/clean-slate)
 
 #
 
 ### 19. Discriminatory Lending	
 qarz dene maiN imtiazi sulook -	قرض دینے میں امتیازی سلوک	
 
-📌 Expanded Explanation:<br/>
 🔗 References:
+
+[Wells Fargo accused of preying on black and Latino homebuyers in California](https://money.cnn.com/2018/02/27/investing/wells-fargo-sacramento-lawsuit-discriminatory-lending/index.html)
+
+[How Some Algorithm Lending Programs Discriminate Against Minorities](https://www.npr.org/2018/11/24/670513608/how-some-algorithm-lending-programs-discriminate-against-minorities)
 
 #
 
@@ -178,31 +238,44 @@ qarz dene maiN imtiazi sulook -	قرض دینے میں امتیازی سلوک
 aam logoN se jaileN bhar dena -	عام لوگوں سے جیلیں بھر دینا
 
 📌 Expanded Explanation:<br/>
+maamuli baatoN par lambe arse ke liye jail main Daal dena - معمولی باتوں پر لمبے عرصے کے لئے جیل میں ڈال دینا
+
 🔗 References:
+
+[ACLU - Mass Incarceration](https://www.aclu.org/issues/smart-justice/mass-incarceration)
+
+[How We Misunderstand Mass Incarceration](https://www.newyorker.com/magazine/2017/04/10/how-we-misunderstand-mass-incarceration)
 
 #
 
 ### 21. Respectability Politics
 izzat paane ke liye goroN ke tareeqe apnana -	عزت پانے کے لئے گوروں کے طریقے اپنانا	
 
-📌 Expanded Explanation:<br/>
 🔗 References:
 
+[Systemic Racism Couldn’t Care Less About Your Respectability Politics](https://www.thenation.com/article/archive/systemic-racism-could-care-less-about-your-respectability-politics/)
 #
 
 ### 22. Tone Policing	
 jazbaati lehje par Tokna - جزباتی لہجے پر ٹوکنا 	
 
-📌 Expanded Explanation:<br/>
 🔗 References:
+
+[Tone policing is a little-known microaggression that's common in the workplace — here's how to identify it](https://www.businessinsider.com/how-to-identify-and-help-stop-tone-policing-in-workplace-2020-8) 
 
 #
 
 ### 23. Racist Mascots	
 nasl-parast alaamateN -	نسل پرست علامتیں	
 
-📌 Expanded Explanation:<br/>
 🔗 References:
+
+[Washington’s NFL team is finally rid of its racist name — 50 years late](https://www.washingtonpost.com/opinions/washingtons-nfl-team-is-finally-rid-of-its-racist-name--50-years-late/2020/07/13/aca3e2ce-c538-11ea-b037-f9711f89ee46_story.html)
+
+[Food Brands Are Finally Changing Their Racist Mascots—But Is It Enough?](https://www.delish.com/food/a33313212/food-brands-racist-mascots-logos/)
+
+[15 racist brands, mascots, and logos that were considered just another part of American life](https://www.businessinsider.com/15-racist-brand-mascots-and-logos-2014-6)
+
 
 #
 
@@ -220,7 +293,6 @@ BIPOC = kaale, qabaili, ya jo goroN ke alawa doosri nasl ke hoN - <br/>
 ### 25. "Make America Great Again"	
 "Amreeka ko phir se azeem banao" -	"امریکہ کو پھر سے عظیم بناؤ"	
 
-📌 Expanded Explanation:<br/>
 🔗 References:
 
 #
@@ -228,16 +300,24 @@ BIPOC = kaale, qabaili, ya jo goroN ke alawa doosri nasl ke hoN - <br/>
 ### 26. Blaming the Victim	
 mazloom ko hi qusoor-waar Thehrana -	مظلوم کو ہی قصوروار ٹھہرانا	
 
-📌 Expanded Explanation:<br/>
 🔗 References:
+
+[Black doesn’t mean criminal. Conservatives should know that by now.](https://www.washingtonpost.com/outlook/2020/05/18/ahmaud-arbery-conservatives-reaction/)
+
+[Stop Blaming Black People For Dying of Coronavirus](https://www.theatlantic.com/ideas/archive/2020/04/race-and-blame/609946/)
 
 #
 
 ### 27. Hiring Discrimination	
 naukri dene maiN imtiazi sulook -	نوکری دینے میں امتیازی سلوک	
 
-📌 Expanded Explanation:<br/>
 🔗 References:
+
+[Workplace discrimination is illegal. But our data shows it’s still a huge problem.](https://www.vox.com/policy-and-politics/2019/2/28/18241973/workplace-discrimination-cpi-investigation-eeoc)
+
+['We Have A Black People Problem': Facebook Worker Claims Racial Discrimination](https://www.npr.org/2020/07/02/886544638/we-have-a-black-people-problem-facebook-worker-claims-racial-discrimination)
+
+[Dear White Boss](https://hbr.org/2002/11/dear-white-boss)
 
 #
 
@@ -247,12 +327,13 @@ naukri dene maiN imtiazi sulook -	نوکری دینے میں امتیازی سل
 📌 Expanded Explanation:<br/>
 🔗 References:
 
+['You're So Articulate': Why Microaggressions Wear People Down](https://www.kuow.org/stories/youre-so-articulate-why-microaggressions-wear-people-down)
+
 #
 
 ### 29. "Don't BLame Me, I Never Owned Slaves"	
 "mujhe ilzaam mat do, maiN ne kabhi ghulaam nahiN rakhe" -	"مجھے الزام مت دو، میں نے کبھی غلام نہیں رکھے"	
 
-📌 Expanded Explanation:<br/>
 🔗 References:
 
 #
@@ -261,7 +342,12 @@ naukri dene maiN imtiazi sulook -	نوکری دینے میں امتیازی سل
 apne bal boote par kamyab hone ka tasavvur -	اپنے بل بوتے پر کامیاب ہونے کا تصور
 
 📌 Expanded Explanation:<br/>
+pasmanda logoN ki madad na kar ke un se tawaqqo karna ke woh khud apne bal boote par kamyab hoN <br/>
+پسماندہ لوگوں کی مدد نہ کر کے ان سے توقع کرنا کہ وہ خود اپنے بل بوتے پر کامیاب ہوں
+
 🔗 References:
+
+[Pull Yourself Up by Bootstraps? Go Ahead, Try It](https://www.nytimes.com/2020/02/19/opinion/economic-mobility.html)
 
 #
 
@@ -269,7 +355,12 @@ apne bal boote par kamyab hone ka tasavvur -	اپنے بل بوتے پر کام�
 School se jail ka seedha raasta -	اسکول سے جیل کا سیدھا راستہ	
 
 📌 Expanded Explanation:<br/>
+Schooli bachchon ke masaail hal na karna, un par sakhti karna aur sazaa dena, jis se wo jurm ke raste par chal paRen <br/>
+اسکولی بچوں کے مسائل حل نہ کرنا، ان پر سختی کرنا اور سزا دینا، جس سے وہ جرم کے راستے پر چل پڑیں
+
 🔗 References:
+
+[School-to-Prison Pipeline](https://www.aclu.org/issues/juvenile-justice/school-prison-pipeline)
 
 #
 
@@ -282,14 +373,26 @@ BIPOC = kaale, qabaili, ya jo goroN ke alawa doosri nasl ke hoN - <br/>
 
 🔗 References:
 
+[Mapping Police Violence](https://mappingpoliceviolence.org/)
+
+[An Abbreviated History of Police Officers Killing Black People](https://www.latimes.com/opinion/story/2020-06-04/police-killings-black-victims)
+
+[Police Kill A Latino Man In California, Admit He Didn't Have Gun](https://www.npr.org/2020/06/05/871083536/police-kill-a-latino-man-in-california-admit-he-didnt-have-gun)
+
+[How the death of Mississauga man Ejaz Choudry helped spark a provincewide conversation about police reform](https://www.thestar.com/news/gta/2020/07/14/how-the-death-of-mississauga-man-ejaz-choudry-helped-spark-a-provincewide-conversation-about-police-reform.html)
+
 #
 
 ### 33. Virtuous Victim Narrative	
 maasoom aur mazloom banna -	معصوم اور مظلوم بننا	
 
 📌 Expanded Explanation:<br/>
+goroN ka apne dafaa main ye kehna ke wo maazi maiN kale logoN ke jaraim ka shikaar hue haiN <br/>
+گوروں کا اپنے دفاع میں یہ کہنا کہ وہ ماضی میں کالے لوگوں کے جرائم کا شکار ہوئے ہیں
 
 🔗 References:
+
+[How the 'Karen Meme' Confronts the Violent History of White Womanhood](https://time.com/5857023/karen-meme-history-meaning/)
 
 #
 
@@ -302,12 +405,12 @@ BIPOC = kaale, qabaili, ya jo goroN ke alawa doosri nasl ke hoN - <br/>
 
 🔗 References:
 
+[Huge Racial Disparities Found in Deaths Linked to Pregnancy](https://www.nytimes.com/2019/05/07/health/pregnancy-deaths-.html)
+
 #
 
 ### 35. "But What About Me?"	
 "Aur mere baare main?" - "اور میرے بارے میں؟"	
-
-📌 Expanded Explanation:<br/>
 
 🔗 References:
 
@@ -316,9 +419,9 @@ BIPOC = kaale, qabaili, ya jo goroN ke alawa doosri nasl ke hoN - <br/>
 ### 36. "All Lives Matter"	
 "sab zindagiyaN aham haiN" -	"سب زندگیاں اہم ہیں"	
 
-📌 Expanded Explanation:<br/>
-
 🔗 References:
+
+[Why you should stop saying “all lives matter] (https://www.vox.com/2016/7/11/12136140/black-all-lives-matter)
 
 #
 
@@ -331,23 +434,34 @@ BIPOC = kaale, qabaili, ya jo goroN ke alawa doosri nasl ke hoN - <br/>
 
 🔗 References:
 
+[Cultural Appropriation, A Perennial Issue On Halloween](https://www.youtube.com/watch?v=13pbFSk5DmY)
+
+[A culture, not a costume](https://www.washingtonpost.com/nation/2019/10/30/culture-not-costume/)
+
 #
 
 ### 38. Racial Profiling	
 nasl ki buniyad par nigraani karna -	نسل کی بنیاد پر نگرانی کرنا	
 
 📌 Expanded Explanation:<br/>
+nasl ki buniyad par mashkook ya mujrim samajhna - نسل کی بنیاد پر مشکوک یا مجرم سمجھنا
 
 🔗 References:
+
+[I Got Tired of Hunting Black and Hispanic People](https://www.nytimes.com/2019/12/06/nyregion/nyc-police-subway-racial-profiling.html)
+
+[Driving While Black](https://washingtonmonthly.com/magazine/janfeb-2014/driving-while-black/)
+
+[How airport scanners discriminate against passengers of color](https://www.vox.com/the-goods/2019/4/17/18412450/tsa-airport-full-body-scanners-racist)
 
 #
 
 ### 	39. Denial of White Privilege	
 maashre maiN goroN ke khusoosi maqaam se inkar - 	معاشرے میں گوروں کے خصوصی مقام سے انکار	
 
-📌 Expanded Explanation:<br/>
-
 🔗 References:
+
+[Confronting racism is not about the needs and feelings of white people](https://www.theguardian.com/commentisfree/2019/mar/28/confronting-racism-is-not-about-the-needs-and-feelings-of-white-people)
 
 #
 
