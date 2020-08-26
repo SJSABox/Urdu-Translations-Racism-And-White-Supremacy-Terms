@@ -439,6 +439,8 @@ nasl parasti se inkaar -	نسل پرستی سے انکار
 khaanah-puri -	خانہ پری	
 
 📌 Expanded Explanation:<br/>
+nasl-parast na hone ka dikhawa karne ke liye daftaroN aur idaroN maiN BIPOC logoN ko mauqe dena<br/>
+دفتروں اور اداروں میں بائی پوک لوگوں کو صرف یہ دکھانے کے لئے رکھنا کہ ہم نسل پرست نہیں ہیں
 
 🔗 References:	
 #
@@ -446,45 +448,47 @@ khaanah-puri -	خانہ پری
 ### 	51. English-Only Initiatives	
 sirf angrezi ki policy -	صرف انگریزی کی پالیسی	
 	
-📌 Expanded Explanation:<br/>
-
 🔗 References:
+
+['English Only': The movement to limit Spanish speaking in US](https://www.bbc.com/news/world-us-canada-50550742)
 
 #
 
 ### 	52. Self-Appointed White Ally	
 goroN ka khud apne aap ko madadgaar bana lena -	گوروں کا خود اپنے آپ کو مددگار بنا لینا	
 	
-📌 Expanded Explanation:<br/>
-
 🔗 References:
+
+[White people are speaking up at protests. How do we know they mean what they say?](https://www.washingtonpost.com/outlook/2020/06/02/white-people-black-protests/)
 
 #
 
 ### 	53. Exceptionalism
 bartar hone ka yaqeen -	برتر ہونے کا یقین	
 	
-📌 Expanded Explanation:<br/>
-
 🔗 References:
+
+[America the Unexceptional](https://foreignpolicy.com/2020/06/10/american-exceptionalism-human-rights-democracy-unexceptional/)
 
 #
 
 ### 	54. Fearing People of Color	
 kale logoN se Darna -	کالے لوگوں سے ڈرنا	
 	
-📌 Expanded Explanation:<br/>
-
 🔗 References:
+
+[There's one epidemic we may never find a vaccine for: fear of black men in public spaces](https://www.cnn.com/2020/05/26/us/fear-black-men-blake/index.html)
 
 #
 
 ### 	55. Police Brutality
 Police ki be-rehmi -	پولیس کی بے رحمی	
 	
-📌 Expanded Explanation:<br/>
-
 🔗 References:
+
+[Crowdsourced Mapped Police Brutality](https://incidents.846policebrutality.com/)
+
+[Mapping Police Violence](https://mappingpoliceviolence.org/)
 
 #
 
@@ -492,10 +496,12 @@ Police ki be-rehmi -	پولیس کی بے رحمی
 BIPOC ke liye khabti hona -	بائی پوک کے لئے خبطی ہونا	
 	
 📌 Expanded Explanation:<br/>
-BIPOC = kaale, qabaili, ya jo goroN ke alawa doosri nasl ke hoN - <br/>
+BIPOC = kaale, qabaili, ya jo goroN ke alawa doosri nasl ke hoN <br/>
 بائی پوک = کالے، قبائلی، یا جو گوروں کے علاوہ دوسری نسل کے ہوں
 
 🔗 References:
+
+[McWilliams: Fetishizing people of color isn’t a compliment, so don’t act like it is](https://collegian.com/2019/04/category-opinion-mcwilliams-fetishizing-people-of-color-isnt-a-compliment-so-dont-act-like-it-is/)
 
 #
 
@@ -503,26 +509,31 @@ BIPOC = kaale, qabaili, ya jo goroN ke alawa doosri nasl ke hoN - <br/>
 mehnat se kamyabi milne ka ghalat tasavvur -	محنت سے کامیابی ملنے کا غلط تصور	
 	
 📌 Expanded Explanation:<br/>
-
+ghareebi, pasmaandgi, aage baRhne ke mauqoN ki kami, aur nasl-parast nizam ki wajah se kamyabi na mil pana <br/>
+غریبی، پسماندگی، آگے بڑھنے کے موقعوں کی کمی، اور نسل پرست نظام کی وجہ سے کامیابی نہ مل پانا
+ 
 🔗 References:
+
+[American Meritocracy Is a Myth](https://www.thenation.com/article/archive/rajan-menon-meritocracy-myth-college-admissions-scandal/)
 
 #
 
 ### 	58. "You're So Articulate"
 "tum kitna achha bol lete ho" -	"تم کتنا اچھا بول لیتے ہو"	
 	
-📌 Expanded Explanation:<br/>
-
 🔗 References:
+
+[What is a microaggression? ](https://www.businessinsider.com/microaggression-unconscious-bias-at-work-2018-6)
+
 
 #
 
 ### 	59. Celebration of Columbus Day
 yaum-e columbus ka jashn -	یوم کولمبس کا جشن	
 	
-📌 Expanded Explanation:<br/>
-
 🔗 References:
+
+[Columbus Day Or Indigenous Peoples' Day?](https://www.npr.org/2019/10/14/769083847/columbus-day-or-indigenous-peoples-day)
 
 #
 
@@ -530,8 +541,11 @@ yaum-e columbus ka jashn -	یوم کولمبس کا جشن
 ulTi nasl parasti ka daawa -	الٹی نسل پرستی کا دعوی	
 	
 📌 Expanded Explanation:<br/>
+goroN ka kehna ke wo khud nasl-parasti ka shikar hue haiN - گوروں کا کہنا کہ وہ خود بھی نسل پرستی کا شکار ہوئے ہیں
 
 🔗 References:
+
+[Myth of Reverse Racism](https://www.theatlantic.com/education/archive/2017/08/myth-of-reverse-racism/535689/)
 
 #
 
@@ -539,6 +553,9 @@ ulTi nasl parasti ka daawa -	الٹی نسل پرستی کا دعوی
 buzurgana andaaz maiN faisle musallat karna -	بزرگانہ انداز میں فیصلے مسلط کرنا
 	
 📌 Expanded Explanation:<br/>
+goroN ka apne aap ko zyada aalim fazil samajh kar doosroN ke liye faisle lena aur unheN musallat karna <br/>
+گوروں کا اپنے آپ کو زیادہ عالم فاضل سمجھ کر دوسروں کے لئے فیصلے لینا اور انھیں مسلط کرنا
+
 
 🔗 References:
 
@@ -547,9 +564,9 @@ buzurgana andaaz maiN faisle musallat karna -	بزرگانہ انداز میں �
 ### 	62. Weaponized Whiteness	
 gore-pan ko hathiyar banana -	گورے پن کو ہتھیار بنانا	
 
-📌 Expanded Explanation:<br/>
-
 🔗 References:
+
+[This invokes a history of terror](https://www.washingtonpost.com/nation/2020/05/27/this-invokes-history-terror-central-park-incident-between-white-woman-black-man-is-part-fraught-legacy/)
 
 #
 
@@ -562,12 +579,16 @@ BIPOC = kaale, qabaili, ya jo goroN ke alawa doosri nasl ke hoN - <br/>
 
 🔗 References:
 
+[I’m your black friend, but I won’t educate you about racism. That’s on you.](https://www.washingtonpost.com/outlook/2020/06/08/black-friends-educate-racism/)
+
 #
 
 ### 	64. Believing We Are "Post-Racial"
 nasl parasti ke khatm hone ka yaqeen -	نسل پرستی کے ختم ہونے کا یقین	
 	
 🔗 References:
+
+[There Is No Post-Racial America](https://www.theatlantic.com/magazine/archive/2015/07/post-racial-society-distant-dream/395255/)
 
 #
 
@@ -594,7 +615,9 @@ Makan dene maiN imtiazi sulook
 nasl ki buniyad par makaan kiraye par na dena - نسل کی بنیاد پر مکان کرائے پر نہ دینا
 
 🔗 References:
+
 [The sordid history of housing discrimination in America](https://www.vox.com/identities/2019/12/4/20953282/racism-housing-discrimination-keeanga-yamahtta-taylor)
+
 [Real Estate Racism: The History Of Redlining & How It Affects Us Today](https://bobbyberk.com/real-estate-racism-what-is-it-what-we-can-do-about-it/)
 
 #
