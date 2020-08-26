@@ -354,52 +354,63 @@ maashre maiN goroN ke khusoosi maqaam se inkar - 	معاشرے میں گوروں
 ### 	40. Prioritizing White Voices as Experts	
 goroN ko maahir maan kar un ki rai ko tarjeeh dena - گوروں کو ماہر مان کر ان کی رائے کو ترجیح دینا	
 	
-
-📌 Expanded Explanation:<br/>
-
 🔗 References:
+
+[Alison Roman, Bon Appétit, and the Global Pantry Problem](https://www.eater.com/2020/5/20/21262304/global-pantry-alison-roman-bon-appetit)
 
 #
 
 ### 	41. Treating Kids of Color As Adults	
 goroN ke ilawa doosri nasl ke bachchoN ko amali taur par baaligh maanna - گوروں کے علاوہ دوسری نسل کے بچوں کو عملی طور پر بالغ ماننا	
 	
-📌 Expanded Explanation:<br/>
-
 🔗 References:
+
+[Racial Profiling in Preschool](https://www.nytimes.com/2016/10/09/opinion/racial-profiling-in-preschool.html)
 
 #
 
 ### 	42. Inequitable Healthcare	
 ilaaj milne maiN na-insafi - علاج ملنے میں نا انصافی 	
 	
-📌 Expanded Explanation:<br/>
-
 🔗 References:
+
+[American hospitals are still segregated. That’s killing people of color](https://www.washingtonpost.com/outlook/2020/08/05/segregated-hospitals-killing-people/)
+
+[How medical bias against black people is shaping Covid-19 treatment and care](https://www.vox.com/2020/6/2/21277987/coronavirus-in-black-people-covid-19-testing-treatment-medical-racism)
+
 #
 
 ### 	43. Assuming Good Intentions Are Enough	
 nek iraadoN hi ko kaafi samajhna - نیک ارادوں ہی کو کافی سمجھنا	
 	
-📌 Expanded Explanation:<br/>
-
 🔗 References:
+
+[The racism of good intentions](https://www.washingtonpost.com/news/book-party/wp/2016/04/15/the-racism-of-good-intentions/)
+
 #
 
 ### 	44. Not Challenging Racist Jokes	
 nasl-parast mazaq ki mazammat na karna - نسل پرست مذاق کی مذمت نہ کرنا	
 
-📌 Expanded Explanation:<br/>
-
 🔗 References:
+
+[What Do You Do When Someone Makes a Racist Remark?](https://www.nytimes.com/2018/09/21/us/racist-remark-reactions.html)
+
 #
 
 ### 	45. Cultural Appropriation	
 saqaafati sarqa -	ثقافتی سرقہ	
 	
 📌 Expanded Explanation:<br/>
+doosroN ke saqaafat aur fann se fayeda uThana - دوسروں کے ثقافت اور فن سے فائدہ اٹھانا
 
 🔗 References:
+
+[Cultural Appropriation Is, In Fact, Indefensible](https://www.npr.org/sections/codeswitch/2017/06/28/533818685/cultural-appropriation-is-in-fact-indefensible)
+
+[When is it OK to wear an item from another culture, and when is it appropriation? How to tell](https://ideas.ted.com/when-is-it-ok-to-wear-an-item-from-another-culture-and-when-is-it-appropriation-how-to-tell/)
+
+[The Difference Between Cultural Exchange and Cultural Appropriation](https://everydayfeminism.com/2013/09/cultural-exchange-and-cultural-appropriation/)
 
 #
 
@@ -407,42 +418,54 @@ saqaafati sarqa -	ثقافتی سرقہ
 khoobsurti ke Europi mayaar -	خوبصورتی کے یوروپی معیار	
 	
 📌 Expanded Explanation:<br/>
+gore banne ki koshish maiN rehna - گورے بننے کی کوشش میں رہنا
 
 🔗 References:
+
+[Code Switch - Is Beauty In The Eyes Of The Colonizer?](https://www.npr.org/sections/codeswitch/2019/02/06/685506578/is-beauty-in-the-eyes-of-the-colonizer)
+
+[More states are trying to protect black employees who want to wear natural hairstyles at work](https://www.washingtonpost.com/business/2019/09/19/more-states-are-trying-protect-black-employees-who-want-wear-natural-hairstyles-work/)
+
+[Beauty companies are changing skin-whitening products. But the damage of colorism runs deeper.](https://www.vox.com/first-person/2020/6/30/21308257/skin-lightening-colorism-whitening-bleaching)
+
 #
 
 ### 	47. Anti-Immigration Policies	
-muhajir mukhalif policy -	مہاجر مخالف پالیسی	
-
-📌 Expanded Explanation:<br/>
+muhajir mukhalif policy - مہاجر مخالف پالیسی	
 
 🔗 References:
+
 #
 
 ### 	48. Considering AAVE "Uneducated"	
 kale logoN ki boli ko ghair taaleem-yafta samajhna -	کالے لوگوں کی بولی کو غیر تعلیم یافتہ سمجھنا	
 	
-📌 Expanded Explanation:<br/>
-
 🔗 References:
+
+[How “Sounding White” Helps Get You Ahead—on Film and in Real Life](https://slate.com/human-interest/2018/07/linguistic-prejudice-in-sorry-to-bother-you-is-a-real-world-problem.html)
+
 #
 
 ### 	49. Denial of Racism	
 nasl parasti se inkaar -	نسل پرستی سے انکار
 	
-📌 Expanded Explanation:<br/>
-
 🔗 References:
+
 #
 
 ### 	50. Tokenism	
 khaanah-puri -	خانہ پری	
 
 📌 Expanded Explanation:<br/>
-nasl-parast na hone ka dikhawa karne ke liye daftaroN aur idaroN maiN BIPOC logoN ko mauqe dena<br/>
-دفتروں اور اداروں میں بائی پوک لوگوں کو صرف یہ دکھانے کے لئے رکھنا کہ ہم نسل پرست نہیں ہیں
+daftaroN aur idaroN maiN BIPOC logoN ko sirf dikhawe ke liye mauqe dena<br/>
+دفتروں اور اداروں میں بائی پوک لوگوں کو صرف دکھاوے کے لئے موقعے دینا
 
 🔗 References:	
+
+[The racial reckoning in women’s media](https://www.vox.com/the-goods/21287045/refinery29-black-employees-man-repeller-cosmopolitan-who-what-wear-vogue)
+
+[Welcome to the glass cliff, 2.0](https://www.vox.com/the-goods/2020/6/18/21294637/racism-corporate-america-glass-cliff-the-wing-bon-appetit)
+
 #
 
 ### 	51. English-Only Initiatives	
@@ -627,6 +650,6 @@ nasl ki buniyad par makaan kiraye par na dena - نسل کی بنیاد پر مک
 We may occasionally add words, update translations, and make other updates to this page to maintain this reference. 
 
 ### Credit & Use
-These translations are the contribution of [RehmaCo](http://instagram.com/rehmaco/) and Hammad H. Rind.The original graphic is the product of several iterations cited below. The translations, work, and images here can be shared freely, with a link back to this page and credit as following:
+These translations are the contribution of [RehmaCo](http://instagram.com/rehmaco/) and Hammad H. Rind. The original graphic is the product of several iterations cited below. The translations, work, and images here can be shared freely, with a link back to this page and credit as following:
 
 Safehouse Progressive Alliance for Nonviolence (2005). Adapted: Ellen Tuzzolo (2016); Mary Julia Cooksey Cordero (2019); The Conscious Kid (2020); [RehmaCo](http://instagram.com/rehmaco/) and Hammad H. Rind, https://github.com/SJSABox (2020)
