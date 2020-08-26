@@ -210,6 +210,9 @@ nasl-parast alaamateN -	نسل پرست علامتیں
 BIPOC par beetne wale waqeyaat par yaqeen na karna -	بائی پوک پر بیتنے والے واقعات پر یقین نہ کرنا	
 
 📌 Expanded Explanation:<br/>
+BIPOC = kaale, qabaili, ya jo goroN ke alawa doosri nasl ke hoN - <br/>
+بائی پوک = کالے، قبائلی، یا جو گوروں کے علاوہ دوسری نسل کے ہوں
+
 🔗 References:
 
 #
@@ -270,10 +273,13 @@ School se jail ka seedha raasta -	اسکول سے جیل کا سیدھا راس�
 
 #
 
-### 32. Police Murdering BIPOC	
+### 32. Police Murdering 
 Police ke hathoN BIPOC ka qatl -	پولیس کے ہاتھوں بائی پوک کا قتل	
 
 📌 Expanded Explanation:<br/>
+BIPOC = kaale, qabaili, ya jo goroN ke alawa doosri nasl ke hoN - <br/>
+بائی پوک = کالے، قبائلی، یا جو گوروں کے علاوہ دوسری نسل کے ہوں
+
 🔗 References:
 
 #
@@ -291,6 +297,8 @@ maasoom aur mazloom banna -	معصوم اور مظلوم بننا
 BIPOC main zachcha bachcha ki zyada amwaat -	بائی پوک میں زچہ بچہ کی زیادہ اموات	
 
 📌 Expanded Explanation:<br/>
+BIPOC = kaale, qabaili, ya jo goroN ke alawa doosri nasl ke hoN - <br/>
+بائی پوک = کالے، قبائلی، یا جو گوروں کے علاوہ دوسری نسل کے ہوں
 
 🔗 References:
 
@@ -318,6 +326,8 @@ BIPOC main zachcha bachcha ki zyada amwaat -	بائی پوک میں زچہ بچ�
 Halloween par BIPOC jaisa huliya banana -	ہالووین پر بائی پوک جیسا حلیہ بنانا	
 
 📌 Expanded Explanation:<br/>
+BIPOC = kaale, qabaili, ya jo goroN ke alawa doosri nasl ke hoN - <br/>
+بائی پوک = کالے، قبائلی، یا جو گوروں کے علاوہ دوسری نسل کے ہوں
 
 🔗 References:
 
@@ -482,6 +492,8 @@ Police ki be-rehmi -	پولیس کی بے رحمی
 BIPOC ke liye khabti hona -	بائی پوک کے لئے خبطی ہونا	
 	
 📌 Expanded Explanation:<br/>
+BIPOC = kaale, qabaili, ya jo goroN ke alawa doosri nasl ke hoN - <br/>
+بائی پوک = کالے، قبائلی، یا جو گوروں کے علاوہ دوسری نسل کے ہوں
 
 🔗 References:
 
@@ -545,6 +557,8 @@ gore-pan ko hathiyar banana -	گورے پن کو ہتھیار بنانا
 BIPOC se goroN ko taaleem dene ki tawaqqo -	بائی پوک سے گوروں کو تعلیم دینے کی توقع	
 	
 📌 Expanded Explanation:<br/>
+BIPOC = kaale, qabaili, ya jo goroN ke alawa doosri nasl ke hoN - <br/>
+بائی پوک = کالے، قبائلی، یا جو گوروں کے علاوہ دوسری نسل کے ہوں
 
 🔗 References:
 
@@ -553,8 +567,6 @@ BIPOC se goroN ko taaleem dene ki tawaqqo -	بائی پوک سے گوروں کو
 ### 	64. Believing We Are "Post-Racial"
 nasl parasti ke khatm hone ka yaqeen -	نسل پرستی کے ختم ہونے کا یقین	
 	
-📌 Expanded Explanation:<br/>
-
 🔗 References:
 
 #
@@ -562,8 +574,6 @@ nasl parasti ke khatm hone ka yaqeen -	نسل پرستی کے ختم ہونے ک
 ### 	65. "But We're All One Big Human Family"
 "lekin hum sab insan to ek hi khandan ka hissa haiN" -	"لیکن ہم سب انسان تو ایک ہی خاندان کا حصہ ہیں"	
 	
-📌 Expanded Explanation:<br/>
-
 🔗 References:
 
 #
@@ -572,8 +582,6 @@ nasl parasti ke khatm hone ka yaqeen -	نسل پرستی کے ختم ہونے ک
 "Sab insanoN ki nasl ek hai"
 "سب انسانوں کی نسل ایک ہے"	
 	
-📌 Expanded Explanation:<br/>
-
 🔗 References:
 
 #
@@ -583,8 +591,11 @@ Makan dene maiN imtiazi sulook
 مکان دینے میں امتیازی سلوک	
 	
 📌 Expanded Explanation:<br/>
+nasl ki buniyad par makaan kiraye par na dena - نسل کی بنیاد پر مکان کرائے پر نہ دینا
 
 🔗 References:
+[The sordid history of housing discrimination in America](https://www.vox.com/identities/2019/12/4/20953282/racism-housing-discrimination-keeanga-yamahtta-taylor)
+[Real Estate Racism: The History Of Redlining & How It Affects Us Today](https://bobbyberk.com/real-estate-racism-what-is-it-what-we-can-do-about-it/)
 
 #
 
@@ -593,6 +604,6 @@ Makan dene maiN imtiazi sulook
 We may occasionally add words, update translations, and make other updates to this page to maintain this reference. 
 
 ### Credit & Use
-These translations are the contribution of RehmaCo and Hammad H. Rind.The original graphic is the product of several iterations cited below. The translations, work, and images here can be shared freely, with a link back to this page and credit as following:
+These translations are the contribution of [RehmaCo](http://instagram.com/rehmaco/) and Hammad H. Rind.The original graphic is the product of several iterations cited below. The translations, work, and images here can be shared freely, with a link back to this page and credit as following:
 
-Safehouse Progressive Alliance for Nonviolence (2005). Adapted: Ellen Tuzzolo (2016); Mary Julia Cooksey Cordero (2019); The Conscious Kid (2020); RehmaCo and Hammad H. Rind, https://github.com/SJSABox (2020)
+Safehouse Progressive Alliance for Nonviolence (2005). Adapted: Ellen Tuzzolo (2016); Mary Julia Cooksey Cordero (2019); The Conscious Kid (2020); [RehmaCo](http://instagram.com/rehmaco/) and Hammad H. Rind, https://github.com/SJSABox (2020)
