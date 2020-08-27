@@ -737,8 +737,7 @@ nasl parasti ke khatm hone ka yaqeen -	نسل پرستی کے ختم ہونے ک
 #
 
 ### 	66. "There Is Only One Human Race"
-"Sab insanoN ki nasl ek hai"
-"سب انسانوں کی نسل ایک ہے"	
+"Sab insanoN ki nasl ek hai" - "سب انسانوں کی نسل ایک ہے"	
 	
 🔗 References:
 
@@ -758,6 +757,14 @@ nasl ki buniyad par makaan kiraye par na dena - نسل کی بنیاد پر مک
 [Real Estate Racism: The History Of Redlining & How It Affects Us Today](https://bobbyberk.com/real-estate-racism-what-is-it-what-we-can-do-about-it/)
 
 #
+
+### Want to Contribute?
+
+See a spelling or syntax error? Want to suggest an alternative translation or offer a more relevant reference resources? We're happy to hear from you! Use the link below to submit a correction or comment.
+
+👉🏿 [Get in Touch!](https://github.com/SJSABox/Urdu-Translations-Racism-And-White-Supremacy-Terms/issues/new?assignees=&labels=&template=corrections---suggestions.md&title=%5BSuggestion%5D) 👈🏻
+                         
+For more information on contributing to this repository please consult the contribution guidelines.
 
 
 ### Updates
