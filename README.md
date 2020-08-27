@@ -48,6 +48,8 @@ kale logoN ke rang roop ki naql - کالے لوگوں کے رنگ روپ کی ن
 
 [Brownface at Bon Appetit](https://www.insider.com/bon-appetit-editor-adam-rapoport-resigned-dressed-puerto-rican-photo-2020-6)
 
+[جسٹن ٹروڈو: کینیڈا کے وزیراعظم نے 2001 میں پارٹی میں ’براؤن فیس‘ والی تصویر کھنچوانے پر معافی مانگ لی](https://www.bbc.com/urdu/world-49752360)
+
 #
 
 ### 4. The N-word
@@ -114,7 +116,7 @@ nasl-parast gaaliyaN - نسل پرست گالیاں
 #
 
 ### 10. KKK
-nasl-parast kkk tanzeem - نسل پرست کے کے کے تنطیم
+nasl-parast kkk tanzeem - نسل پرست کے کے کے تنظیم
 
 📌 Expanded Explanation:<br/>
 gore logoN ki dhauNs jamaane wali mujrimana tanzeem - گورے لوگوں کی دھونس جمانے والی مجرمانہ تنظیم
@@ -374,7 +376,7 @@ Schooli bachchon ke masaail hal na karna, un par sakhti karna aur sazaa dena, ji
 
 #
 
-### 32. Police Murdering 
+### 32. Police Murdering BIPOC
 Police ke hathoN BIPOC ka qatl -	پولیس کے ہاتھوں بائی پوک کا قتل	
 
 📌 Expanded Explanation:<br/>
@@ -416,6 +418,8 @@ BIPOC = kaale, qabaili, ya jo goroN ke alawa doosri nasl ke hoN - <br/>
 🔗 References:
 
 [Huge Racial Disparities Found in Deaths Linked to Pregnancy](https://www.nytimes.com/2019/05/07/health/pregnancy-deaths-.html)
+
+[امریکہ میں سیاہ فام بچوں کی شرح اموات زیادہ](https://www.urdunews.com/node/427921/دنیا/امریکہ-میں-سیاہ-فام-بچوں-کی-شرح-اموات-زیادہ)
 
 #
 
@@ -551,6 +555,8 @@ gore banne ki koshish maiN rehna - گورے بننے کی کوشش میں رہن
 [More states are trying to protect black employees who want to wear natural hairstyles at work](https://www.washingtonpost.com/business/2019/09/19/more-states-are-trying-protect-black-employees-who-want-wear-natural-hairstyles-work/)
 
 [Beauty companies are changing skin-whitening products. But the damage of colorism runs deeper.](https://www.vox.com/first-person/2020/6/30/21308257/skin-lightening-colorism-whitening-bleaching)
+
+[’فیئر اینڈ لولی‘ کے نام میں تبدیلی کا اعلان: امریکہ میں تین پاکستانی سہیلیاں جنھوں نے ’فیئر کے بغیر لولی‘ کو ممکن بنایا](https://www.bbc.com/urdu/regional-53195881)
 
 #
 
