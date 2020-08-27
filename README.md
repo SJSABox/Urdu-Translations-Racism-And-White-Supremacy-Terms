@@ -33,6 +33,8 @@ nasl ki buniyad par zulm karna - نسل کی بنیاد پر ظلم کرنا
 
 [Black Americans still are victims of hate crimes more than any other group](https://publicintegrity.org/politics/black-americans-still-are-victims-of-hate-crimes-more-than-any-other-group/)
 
+[نفرت پر مبنی جرائم میں اضافہ، جنوبی ایشیائی امریکیوں میں تشویش](https://www.urduvoa.com/a/concerns-over-hate-crime-in-south-asian-communities-in-us/3781461.html)
+
 #
 
 ### 3. Blackface
@@ -62,7 +64,12 @@ noon lafz wali gaali - ن لفظ والی گالی
 ### 5. Swastikas
 nafrat wale TeRhe swastika nishaan - نفرت والے ٹیڑھے سواستیکا نشان	
 
+📌 Expanded Explanation:<br/>
+nafrat-angez nasli bartari ke TeRhi saleebon ke nishan - نفرت انگیز نسلی برتری کے ٹیڑھی صلیبوں کے نشان
+
 🔗 References:
+
+[فن لینڈ فضائیہ نے ایک صدی بعد اپنے علامتی نشان سے سواستیکا ہٹا دیا](https://www.dw.com/ur/فن-لینڈ-فضائیہ-نے-ایک-صدی-بعد-اپنے-علامتی-نشان-سے-سواستیکا-ہٹا-دیا/a-54021041)
 
 #
 
@@ -70,6 +77,8 @@ nafrat wale TeRhe swastika nishaan - نفرت والے ٹیڑھے سواستیک
 Nazi nasli nazariye ko phir se wapas lane wale - نازی نسلی نطریے کو پھر سے واپس لانے والے	
 
 🔗 References:
+
+[نازی نسلی نظریات](https://encyclopedia.ushmm.org/content/ur/article/victims-of-the-nazi-era-nazi-racial-ideology)
 
 #
 
@@ -108,7 +117,7 @@ nasl-parast gaaliyaN - نسل پرست گالیاں
 nasl-parast kkk tanzeem - نسل پرست کے کے کے تنطیم
 
 📌 Expanded Explanation:<br/>
-gore logoN ki baladasti ki hami mujrimana tanzeem
+gore logoN ki dhauNs jamaane wali mujrimana tanzeem - گورے لوگوں کی دھونس جمانے والی مجرمانہ تنظیم
 
 🔗 References:
 
