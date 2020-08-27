@@ -1,11 +1,11 @@
 # Anti-Blackness & White Supremacy Terms - Urdu Translations
-These are the Urdu translations for the popular White Supremacy graphic featuring a set of 67 terms that describe overt &amp; covert forms of racism. The Urdu translations are accompanied by their English transliterations, and some handy links to articles and other media that explain or are references for each concept.
+These are the Urdu translations for the popular White Supremacy 🔺 graphic featuring a set of 67 terms that describe overt &amp; covert forms of racism. The Urdu translations are accompanied by their English transliterations, and some handy links to articles and other media that explain or are references for each concept.
 
 ## Terms, Translations, Transliterations, Expanded Explanations, Reference Links
 
-Below, each term is translated individually in the Nastaliq script for Urdu, then transliterated into English for easier reading. Some terms may also have an expanded definition for contextualization or clarifications of the shorter translation. Where appropriate, links have been added that offer general explanations or examples where these issues directly effect BIPOC, or specifically South Asians in North America.
+Below, each term is translated individually in the Nastaliq script for Urdu, then transliterated into English for easier reading. Some terms may also have an 📌 expanded definition for contextualization or clarifications of the shorter translation. Where appropriate, links 🔗 have been added that offer general explanations or examples where these issues directly effect BIPOC, or specifically South Asians.
 
-## Overt White Supremacy - goroN ki khule aam baladasti - گوروں کی کھلے عام بالادستی
+## Overt White Supremacy - goroN ki khule aam baladasti <br/> گوروں کی کھلے عام بالادستی
 
 ### 1. Lynching 
 hujoomi tashaddud - ہجومی تشدد 
@@ -116,7 +116,7 @@ gore logoN ki baladasti ki hami mujrimana tanzeem
 
 #
 
-## Covert White Supremacy - گوروں کی ڈھکی چھپی بالادستی - goroN ki Dhaki chhupi baladasti
+## Covert White Supremacy - goroN ki Dhaki chhupi baladasti <br/> گوروں کی ڈھکی چھپی بالادستی  
 
 ### 11. Calling the Police on Black People	
 kale logoN par police bulaana - کالے لوگوں پر پولیس بلانا	
@@ -206,6 +206,7 @@ ruhani aur mazhabi batoN ki aaR le kar haqeeqi masaail se tawajjo haTaana
 
 🔗 References:
 
+[Spiritual Bypassing, White Privilege and BlackLivesMatter](https://medium.com/@lilyayre/spiritual-bypassing-white-privilege-and-blacklivesmatter-531db2c8c85c)
 #
 
 ### 18. Education Funding from Property Taxes	
@@ -324,7 +325,6 @@ naukri dene maiN imtiazi sulook -	نوکری دینے میں امتیازی سل
 ### 28. "You don't sound Black"	
 "tumhara lehja kale logoN jaisa nahiN lagta" -	"تمہارا لہجہ کالے لوگوں جیسا نہیں لگتا"	
 
-📌 Expanded Explanation:<br/>
 🔗 References:
 
 ['You're So Articulate': Why Microaggressions Wear People Down](https://www.kuow.org/stories/youre-so-articulate-why-microaggressions-wear-people-down)
