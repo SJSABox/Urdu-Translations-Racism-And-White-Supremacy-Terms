@@ -248,13 +248,14 @@ qarz dene maiN imtiazi sulook -	قرض دینے میں امتیازی سلوک
 aam logoN se jaileN bhar dena -	عام لوگوں سے جیلیں بھر دینا
 
 📌 Expanded Explanation:<br/>
-maamuli baatoN par lambe arse ke liye jail main Daal dena - معمولی باتوں پر لمبے عرصے کے لئے جیل میں ڈال دینا
+maamuli baatoN par lambe arse ke liye jail main Daal dene ka aam riwaj - معمولی باتوں پر لمبے عرصے کے لئے جیل میں ڈال دینے کا عام رواج
 
 🔗 References:
 
 [ACLU - Mass Incarceration](https://www.aclu.org/issues/smart-justice/mass-incarceration)
 
 [How We Misunderstand Mass Incarceration](https://www.newyorker.com/magazine/2017/04/10/how-we-misunderstand-mass-incarceration)
+
 
 #
 
