@@ -1,6 +1,9 @@
 # Anti-Blackness & White Supremacy Terms - Urdu Translations
 These are the Urdu translations for the popular White Supremacy 🔺 graphic featuring a set of 67 terms that describe overt &amp; covert forms of racism. The Urdu translations are accompanied by their English transliterations, and some handy links to articles and other media that explain or are references for each concept.
 
+<img src="img/Urdu.png" height="350"> <img src="img/Urdu%20Transliteration.png" height="350">
+
+
 ## Terms, Translations, Transliterations, Expanded Explanations, Reference Links
 
 Below, each term is translated individually in the Nastaliq script for Urdu, then transliterated into English for easier reading. Some terms may also have an 📌 expanded definition for contextualization or clarifications of the shorter translation. Where appropriate, links 🔗 have been added that offer general explanations or examples where these issues directly effect BIPOC, or specifically South Asians.
@@ -17,7 +20,9 @@ qanooni ikhtiyar ke baghair maarna - قانونی اختیار کے بغیر م�
 
 [“The oppression doesn’t end, it adapts”](https://www.vox.com/21295670/robert-fuller-malcolm-harsch-hanging-history-lynching) 
 
-[ہجومی تشدد کیا ہے](https://ur.wikipedia.org/wiki/ہجومی_تشدد)
+[Terror Lynching in America](https://www.youtube.com/watch?v=aS61QFzk2tI) 
+
+[ہجومی تشدد](https://ur.wikipedia.org/wiki/ہجومی_تشدد)
 
 #
 
@@ -674,6 +679,8 @@ ghareebi, pasmaandgi, aage baRhne ke mauqoN ki kami, aur nasl-parast nizam ki wa
 ### 	58. "You're So Articulate"
 "tum kitna achha bol lete ho" -	"تم کتنا اچھا بول لیتے ہو"	
 	
+qabliyat maiN kami jataana - قابلیت میں کمی جتانا
+
 🔗 References:
 
 [What is a microaggression? ](https://www.businessinsider.com/microaggression-unconscious-bias-at-work-2018-6)
@@ -727,6 +734,9 @@ gore-pan ko hathiyar banana -	گورے پن کو ہتھیار بنانا
 BIPOC se goroN ko taaleem dene ki tawaqqo -	بائی پوک سے گوروں کو تعلیم دینے کی توقع	
 	
 📌 Expanded Explanation:<br/>
+BIPOC ke sath hone wali zyadti ke bare maiN jaanne ka kaam aap ka hai, un se ye poochhna un ke zakhmoN ko kuredne ki tarah hai <br/>
+بائی پوک کے ساتھ ہونے والی زیادتی کے بارے میں جاننے کا کام آپ کا ہے، ان سے یہ پوچھنا ان کے زخموں کو کریدنے کی طرح ہے
+
 BIPOC = kaale, qabaili, ya jo goroN ke alawa doosri nasl ke hoN - <br/>
 بائی پوک = کالے، قبائلی، یا جو گوروں کے علاوہ دوسری نسل کے ہوں
 
@@ -738,7 +748,11 @@ BIPOC = kaale, qabaili, ya jo goroN ke alawa doosri nasl ke hoN - <br/>
 
 ### 	64. Believing We Are "Post-Racial"
 nasl parasti ke khatm hone ka yaqeen -	نسل پرستی کے ختم ہونے کا یقین	
-	
+
+📌 Expanded Explanation:<br/>
+kale logoN ke sath hone wale zulm aur zyadti ki haqeeqat se nazreN churana <br/>
+کالے لوگوں کے ساتھ ہونے والے ظلم اور زیادتی کی حقیقت سے نظریں چرانا
+
 🔗 References:
 
 [There Is No Post-Racial America](https://www.theatlantic.com/magazine/archive/2015/07/post-racial-society-distant-dream/395255/)
@@ -747,14 +761,22 @@ nasl parasti ke khatm hone ka yaqeen -	نسل پرستی کے ختم ہونے ک
 
 ### 	65. "But We're All One Big Human Family"
 "lekin hum sab insan to ek hi khandan ka hissa haiN" -	"لیکن ہم سب انسان تو ایک ہی خاندان کا حصہ ہیں"	
-	
+
+📌 Expanded Explanation:<br/>
+aisa keh kar kale logoN ke sath hone wale nasli imtiaz aur zulm ki nafi karna <br/>
+ایسا کہ کر کالے لوگوں کے ساتھ ہونے والے نسلی امتیاز اور ظلم کی نفی کرنا
+
 🔗 References:
 
 #
 
 ### 	66. "There Is Only One Human Race"
 "Sab insanoN ki nasl ek hai" - "سب انسانوں کی نسل ایک ہے"	
-	
+
+📌 Expanded Explanation:<br/>
+aisa keh kar kale logoN ke sath hone wale nasli imtiaz aur zulm ki nafi karna <br/>
+ایسا کہ کر کالے لوگوں کے ساتھ ہونے والے نسلی امتیاز اور ظلم کی نفی کرنا
+
 🔗 References:
 
 #
@@ -787,6 +809,6 @@ For more information on contributing to this repository please consult the contr
 We may occasionally add words, update translations, and make other updates to this page to maintain this reference. 
 
 ### Credit & Use
-These translations are the contribution of [RehmaCo](http://instagram.com/rehmaco/) and Hammad H. Rind. The original graphic is the product of several iterations cited below. The translations, work, and images here can be shared freely, with a link back to this page and credit as following:
+These translations are the contribution of [RehmaCo](http://instagram.com/rehmaco/) and [Hammad H. Rind](https://www.instagram.com/hammadhrind/). The original graphic is the product of several iterations cited below. The translations, work, and images here can be shared freely, with a link back to this page and credit as following:
 
-Safehouse Progressive Alliance for Nonviolence (2005). Adapted: Ellen Tuzzolo (2016); Mary Julia Cooksey Cordero (2019); The Conscious Kid (2020); [RehmaCo](http://instagram.com/rehmaco/) and Hammad H. Rind, https://github.com/SJSABox (2020)
+Safehouse Progressive Alliance for Nonviolence (2005). Adapted: Ellen Tuzzolo (2016); Mary Julia Cooksey Cordero (2019); The Conscious Kid (2020); RehmaCo and Hammad H. Rind, https://github.com/SJSABox (2020)
