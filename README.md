@@ -1,7 +1,7 @@
 # Anti-Blackness & White Supremacy Terms - Urdu Translations
 These are the Urdu translations for the popular White Supremacy 🔺 graphic featuring a set of 67 terms that describe overt &amp; covert forms of racism. The Urdu translations are accompanied by their English transliterations, and some handy links to articles and other media that explain or are references for each concept.
 
-<img src="img/Urdu.png" height="350"> <img src="img/Urdu%20Transliteration.png" height="350">
+<img src="img/Urdu.png" height="300"> <img src="img/Urdu%20Transliteration.png" height="300"> <img src="img/Original.png" height="300"> 
 
 
 ## Terms, Translations, Transliterations, Expanded Explanations, Reference Links
