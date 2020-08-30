@@ -811,6 +811,6 @@ For more information on contributing to this repository please consult the contr
 We may occasionally add words, update translations, and make other updates to this page to maintain this reference. 
 
 ### Credit & Use
-These translations are the contribution of [RehmaCo](http://instagram.com/rehmaco/) and [Hammad H. Rind](https://www.instagram.com/hammadhrind/). The original graphic is the product of several iterations cited below. The translations, work, and images here can be shared freely, with a link back to this page and credit as following:
+These translations are the contribution of [RehmaCo](http://instagram.com/rehmaco/) and [Hammad H Rind](https://www.instagram.com/hammadhrind/) with support from [Amritpan Kaur](https://www.instagram.com/amritpan/) and [Dr. Gyanam Mahajan, Department of Asian Languages & Cultures, UCLA](https://www.alc.ucla.edu/person/gyanam-mahajan/). The original graphic is the product of several iterations cited below. The translations, work, and images here can be shared freely, with a link back to this page and credit as following:
 
-Safehouse Progressive Alliance for Nonviolence (2005). Adapted: Ellen Tuzzolo (2016); Mary Julia Cooksey Cordero (2019); The Conscious Kid (2020); RehmaCo and Hammad H. Rind, [https://sjsabox.github.io/](https://sjsabox.github.io/)(2020)
+Safehouse Progressive Alliance for Nonviolence (2005). Adapted: Ellen Tuzzolo (2016); Mary Julia Cooksey Cordero (2019); The Conscious Kid (2020); RehmaCo and Hammad H Rind, [https://sjsabox.github.io/](https://sjsabox.github.io/)(2020)
