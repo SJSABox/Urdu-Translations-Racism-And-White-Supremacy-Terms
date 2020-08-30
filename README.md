@@ -5,6 +5,11 @@ These are the Urdu translations for the popular White Supremacy 🔺 graphic fea
 
 <img src="img/Urdu.png" height="300"> <img src="img/Urdu%20Transliteration.png" height="300"> <img src="img/Original.png" height="300"> 
 
+## Who is this for?
+
+Many of us may simply understand racism as singular acts of hate or unkindness between ethnic groups when in reality, racism is a social construct that powers white supremacy via hidden systems of dominance. As we mobilize alongside Black Americans against racial injustices, it is important that we arm ourselves, our families, friends, coworkers, and social circles by investigating how white privilege is a legislative, economic, and cultural norm in America.
+
+This effort to translate forms of white supremacy into Urdu is aimed at creating some language that can help you reach across language gaps and start conversations with people you know who may not have done this work yet. Additionally, there are article & media links to further contextualize these concepts. Use this resource to educate yourself so that you may educate others.  
 
 ## Terms, Translations, Transliterations, Expanded Explanations, Reference Links
 
@@ -814,3 +819,5 @@ We may occasionally add words, update translations, and make other updates to th
 These translations are the contribution of [RehmaCo](http://instagram.com/rehmaco/) and [Hammad H Rind](https://www.instagram.com/hammadhrind/) with support from [Amritpan Kaur](https://www.instagram.com/amritpan/) and [Dr. Gyanam Mahajan, Department of Asian Languages & Cultures, UCLA](https://www.alc.ucla.edu/person/gyanam-mahajan/). The original graphic is the product of several iterations cited below. The translations, work, and images here can be shared freely, with a link back to this page and credit as following:
 
 Safehouse Progressive Alliance for Nonviolence (2005). Adapted: Ellen Tuzzolo (2016); Mary Julia Cooksey Cordero (2019); The Conscious Kid (2020); RehmaCo and Hammad H Rind, [https://sjsabox.github.io/](https://sjsabox.github.io/)(2020)
+
+Please use the hashtag #SJSAbox when sharing it on social media.
