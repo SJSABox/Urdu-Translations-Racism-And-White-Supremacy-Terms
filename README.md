@@ -460,7 +460,7 @@ kale logoN ki zindagiyoN ko lambe arse se kam aham maana gaya hai, is liye "kale
 
 🔗 References:
 
-[Why you should stop saying “all lives matter] (https://www.vox.com/2016/7/11/12136140/black-all-lives-matter)
+[Why you should stop saying “all lives matter](https://www.vox.com/2016/7/11/12136140/black-all-lives-matter)
 
 #
 
