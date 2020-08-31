@@ -284,6 +284,11 @@ izzat paane ke liye goroN ke tareeqe apnana -	عزت پانے کے لئے گور
 ### 22. Tone Policing	
 jazbaati lehje par Tokna - جزباتی لہجے پر ٹوکنا 	
 
+📌 Expanded Explanation:<br/>
+jin ke saath lambe arse se zulm o zyadti hoti aayi hai, unheN apne gham o ghusse ke izhaar ka haq hai. unko jazbati hone pe Tokna unheN khamosh karane ki tarah hai. <br/>
+جن کے ساتھ لمبے عرصے سے ظلم و زیادتی ہوتی آئی ہے انھیں اپنے غم و غصے کے اظہار کا حق ہے۔ ان کو جزباتی ہونے پر ٹوکنا انھیں خاموش کرانے کی طرح ہے۔
+
+
 🔗 References:
 
 [Tone policing is a little-known microaggression that's common in the workplace — here's how to identify it](https://www.businessinsider.com/how-to-identify-and-help-stop-tone-policing-in-workplace-2020-8) 
@@ -438,12 +443,20 @@ BIPOC = kaale, qabaili, ya jo goroN ke alawa doosri nasl ke hoN - <br/>
 ### 35. "But What About Me?"	
 "Aur mere baare main?" - "اور میرے بارے میں؟"	
 
+📌 Expanded Explanation:<br/>
+kale logoN ke saath ho rahi zulm o zyadti ko lambe arse ke baad ab tawajjo mili hai. aise maiN apni baat beech maiN laana us mudde se dhyan haTaana hai.<br/>
+کالے لوگوں کے ساتھ ہو رہی ظلم و زیادتی کو لمبے عرصے کے بعد اب توجہ ملی ہے۔ ایسے میں اپنی بات بیچ میں لانا اس مدعے سے دھیان ہٹانا ہے۔
+
 🔗 References:
 
 #
 
 ### 36. "All Lives Matter"	
 "sab zindagiyaN aham haiN" -	"سب زندگیاں اہم ہیں"	
+
+📌 Expanded Explanation:<br/>
+kale logoN ki zindagiyoN ko lambe arse se kam aham maana gaya hai, is liye "kale logoN ki zindagiyaN aham haiN" ka naara us taraf tawajjo dilane ki ek koshish hai. aise maiN "sab zindagiyaN aham haiN" kehna us mudde se dhyan haTaana hai.<br/>
+کالے لوگوں کی زندگیوں کو لمبے عرصے سے کم اہم مانا گیا ہے، اس لئے "کالے لوگوں کی زندگیاں اہم ہیں" کا نعرہ اس طرف توجہ دلانے کی ایک کوشش ہے۔ ایسے میں "سب زندگیاں اہم ہیں" کہنا اس مدعے سے دھیان ہٹانا ہے۔
 
 🔗 References:
 
@@ -601,6 +614,9 @@ khaanah-puri -	خانہ پری
 📌 Expanded Explanation:<br/>
 daftaroN aur idaroN maiN BIPOC logoN ko sirf dikhawe ke liye mauqe dena<br/>
 دفتروں اور اداروں میں بائی پوک لوگوں کو صرف دکھاوے کے لئے موقعے دینا
+
+BIPOC = kaale, qabaili, ya jo goroN ke alawa doosri nasl ke hoN - <br/>
+بائی پوک = کالے، قبائلی، یا جو گوروں کے علاوہ دوسری نسل کے ہوں
 
 🔗 References:	
 
@@ -770,8 +786,8 @@ kale logoN ke sath hone wale zulm aur zyadti ki haqeeqat se nazreN churana <br/>
 "lekin hum sab insan to ek hi khandan ka hissa haiN" -	"لیکن ہم سب انسان تو ایک ہی خاندان کا حصہ ہیں"	
 
 📌 Expanded Explanation:<br/>
-aisa keh kar kale logoN ke sath hone wale nasli imtiaz aur zulm ki nafi karna <br/>
-ایسا کہ کر کالے لوگوں کے ساتھ ہونے والے نسلی امتیاز اور ظلم کی نفی کرنا
+lekin bohot se insan nasli imtiaz aur zulm ka shikar haiN <br/>
+لیکن بہت سے انسان نسلی امتیاز اور ظلم کا شکار ہیں 
 
 🔗 References:
 
@@ -781,8 +797,8 @@ aisa keh kar kale logoN ke sath hone wale nasli imtiaz aur zulm ki nafi karna <b
 "Sab insanoN ki nasl ek hai" - "سب انسانوں کی نسل ایک ہے"	
 
 📌 Expanded Explanation:<br/>
-aisa keh kar kale logoN ke sath hone wale nasli imtiaz aur zulm ki nafi karna <br/>
-ایسا کہ کر کالے لوگوں کے ساتھ ہونے والے نسلی امتیاز اور ظلم کی نفی کرنا
+lekin nasl ki buniyad par imtiaz aur zulm ek haqeeqat hai<br/>
+لیکن نسل کی بنیاد پر امتیاز اور ظلم ایک حقیقت ہے
 
 🔗 References:
 
@@ -793,7 +809,7 @@ Makan dene maiN imtiazi sulook
 مکان دینے میں امتیازی سلوک	
 	
 📌 Expanded Explanation:<br/>
-nasl ki buniyad par makaan kiraye par na dena - نسل کی بنیاد پر مکان کرائے پر نہ دینا
+nasl ki buniyad par makan kiraye par na dena - نسل کی بنیاد پر مکان کرائے پر نہ دینا
 
 🔗 References:
 
