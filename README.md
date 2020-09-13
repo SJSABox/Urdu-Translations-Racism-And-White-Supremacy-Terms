@@ -330,6 +330,10 @@ BIPOC = kaale, qabaili, ya jo goroN ke alawa doosri nasl ke hoN - <br/>
 ### 26. Blaming the Victim	
 mazloom ko hi qusoor-waar Thehrana -	مظلوم کو ہی قصوروار ٹھہرانا	
 
+📌 Expanded Explanation:<br/>
+aisa karne se zaalim par se zimmedari haTti hai, mazloom ke khilaf taassub barqaraar rehta hai, aur zulm o zyadti ke liye jawaz milta hai<br/>
+ایسا کر نے سے ظالم پر سے ذمہ داری ہٹتی ہے، مظلوم کے خلاف تعصب برقرار رہتا ہے، اور ظلم و زیادتی کے لئے جواز ملتا ہے۔
+
 🔗 References:
 
 [Black doesn’t mean criminal. Conservatives should know that by now.](https://www.washingtonpost.com/outlook/2020/05/18/ahmaud-arbery-conservatives-reaction/)
