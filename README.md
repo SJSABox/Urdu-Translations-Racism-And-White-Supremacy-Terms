@@ -559,7 +559,7 @@ nasl-parast mazaq ki mazammat na karna - نسل پرست مذاق کی مذمت 
 saqaafati sarqa -	ثقافتی سرقہ	
 	
 📌 Expanded Explanation:<br/>
-ek taaqat-war ya ghalib saqaafat ka kisi kamzor ya maghloob saqaafat se namunaasib andaz maiN faida uThana<br/>
+ek taaqat-war ya ghalib saqaafat ka kisi kamzor ya maghloob saqaafat se namunaasib andaz maiN fayeda uThana<br/>
 ایک طاقتور یا غالب ثقافت کا کسی کمزور یا مغلوب ثقافت سے نامناسب انداز میں فائدہ اٹھانا 
 
 🔗 References:
